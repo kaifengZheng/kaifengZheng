@@ -11,12 +11,5 @@ Here are some ideas to get you started:-->
 <h1 align="left"><u>Github stats</u></h1>
 
 <p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/kaifengZheng/kaifengZheng/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
-</p>
-
-<p align="center" style="width: 100%;">
-    <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=kaifengZheng&theme=onedark" alt="NobleMajo" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=kaifengZheng&show_icons=true&locale=en&theme=onedark" alt="kaifengZheng" />
-    </span>
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/kaifengZheng/kaifengZheng/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="kaifengZheng" />
 </p>
