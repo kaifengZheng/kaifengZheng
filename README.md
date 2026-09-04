@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on machine-learning models to decode X-ray absorption spectroscopy, aiming to understand the morphological and structural information of nanomaterials. 
-- 🌱 To achieve this goal, I’m currently deepening my knowledge in the fundamental physics behind XAS, neural network architectures, global optimization techniques (such as genetic algorithm and simulated annealing), advanced Python programming, computer algorithms, and utilization of chemical visualization tools like Blender, Vista, and Matplotlib.
+- My current research focuses on polymer characterization and processing, encompassing polymer rheology, structure-property relationships, crystallization analysis via XRD, and melt structure investigation. This expertise enables effective control over polymerization processes and guides manufacturing toward the development of advanced products.
+
+-I am set to receive my Ph.D. in Materials Science from Stony Brook University in December 2025. As a member of Professor Anatoly Frenkel's research group, I studied X-ray absorption spectroscopy (XAS) across diverse material systems, including molten salts and metal nanocatalysts. My work centered on employing advanced machine learning techniques to identify critical material descriptors from XAS data. Furthermore, I have extensive hands-on experience conducting XAS experiments at NSLS-II, Brookhaven National Laboratory, as well as performing PDF and SAXS measurements using their beamlines.
 
 <h1 align="left"><u>Github stats</u></h1>
 
